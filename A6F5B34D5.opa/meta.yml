@@ -1,0 +1,18 @@
+id: A6F5B34D5
+title: 'MSV 1,11: Pāṇḍulohitakavastu'
+type: translation
+pechas:
+- I7197C3D7
+- I4842C45E
+- ID7033B8E
+source_metadata:
+  languages:
+  - sa
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:09:18.881617
+  last_modified_at: 2023-02-09 15:09:18.881632
+alignment_to_base:
+  I7197C3D7/655A: C030
+  I4842C45E/C7C1: C030
+  ID7033B8E/E972: C030
